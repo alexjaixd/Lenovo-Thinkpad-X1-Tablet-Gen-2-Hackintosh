@@ -1,11 +1,22 @@
 # Lenovo-Thinkpad-X1-Tablet-Gen-2-Hackintosh
-Current Version : Opencore 0.8.6
+** **DISCLAIMER** **
 
-Current Status: Beta build (still needs development)
+This is not a build suitable for novice users, Do not attempt to use this EFI if you don't even have the basics of Hackintosh, I'm not here to babystep you on how Hackintosh works or where to download Mac OS (You should have this prerequisite knowledge before proceeding to here. This repositry is only limited to technical discussions related to this Specific Device. Now that's out of the way, if you have any inputs/improvements/further development, you're more than welcomed to bring it here :)
 
-Supported OS: Big Sur / Monterey / Ventura
+**Current Booted Version** : Opencore 0.8.6
 
-What's working:
+**Current Status** : Beta build WIP (still needs development)
+
+**Supported OS** : Big Sur / Monterey / Ventura
+
+**Machine Specs** :
+- CPU: i5-7Y54/ i5-7Y57 / i7-7Y75
+- GPU: Intel HD615
+- Screen: 12" FHD+ 2160x1440
+- Memory: 8GB 
+- Wifi & BT: AC8265
+
+**What's working** :
 - GPU acceleration (Intel HD615)
 - Intel Wifi & Bluetooth
 - USB attached Keyboard & Trackpoint
@@ -14,7 +25,7 @@ What's working:
 - Sleep & Wake
 - Built-in Micro SD Card reader
 
-What's currently not working
+**What's currently not working** :
 - Touch Screen (Connected through I2C protocol)
 - USB attached trackpad
 - Both Cameras (Front facing & rear facing) (Connected through I2C protocol)
