@@ -24,6 +24,7 @@ This is not a build suitable for novice users, Do not attempt to use this EFI if
 - Audio
 - Sleep & Wake
 - Built-in Micro SD Card reader
+- Brightness Control
 
 **What's currently not working** :
 - Touch Screen (Connected through I2C protocol)
