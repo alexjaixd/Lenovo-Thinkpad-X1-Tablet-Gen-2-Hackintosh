@@ -13,7 +13,7 @@ Please generate your own SMBIOS values (Serial, UUID, MLB, ROM) before using thi
 **Supported OS** : Big Sur / Monterey / Ventura
 
 **Machine Specs** :
-- CPU: i5-7Y54/ i5-7Y57 / i7-7Y75
+- CPU: i5-7Y54 / i5-7Y57 / i7-7Y75
 - GPU: Intel HD615
 - Screen: 12" FHD+ 2160x1440
 - Memory: 8GB 
@@ -34,5 +34,6 @@ Please generate your own SMBIOS values (Serial, UUID, MLB, ROM) before using thi
 - Touch Screen (Connected through I2C protocol)
 - USB attached trackpad
 - Both Cameras (Front facing & rear facing) (Connected through I2C protocol)
+- Battery percentage
 
 
