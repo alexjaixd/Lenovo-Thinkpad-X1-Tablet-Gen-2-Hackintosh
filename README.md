@@ -11,6 +11,8 @@ Please generate your own SMBIOS values (Serial, UUID, MLB, ROM) before using thi
 **Current Status** : Beta build WIP (still needs development)
 
 **Supported OS** : Big Sur / Monterey / Ventura
+![x1 tablet big sur screenshot](https://user-images.githubusercontent.com/86264021/205204668-e1d5a979-b92f-4bf9-80cc-82d1fb6cf4d8.png)
+![x1 tablet ventura screenshot](https://user-images.githubusercontent.com/86264021/205204728-804c613a-f1f4-412a-a9c9-1072e2ca00e9.png)
 
 **Machine Specs** :
 - CPU: i5-7Y54 / i5-7Y57 / i7-7Y75
