@@ -30,12 +30,12 @@ Please generate your own SMBIOS values (Serial, UUID, MLB, ROM) before using thi
 - Sleep & Wake
 - Built-in Micro SD Card reader
 - Brightness Control
+- Battery percentage
 - iMessage, FaceTime, App Store, iTunes Store (After generating your own SMBIOS values)
 
 **What's currently not working** :
 - Touch Screen (Connected through I2C protocol)
 - USB attached trackpad
 - Both Cameras (Front facing & rear facing) (Connected through I2C protocol)
-- Battery percentage
 
 
